@@ -1,4 +1,4 @@
-# Marlin Documentation Project
+# Proyecto Documentación Marlin
 
 [![Build Status](//travis-ci.org/MarlinFirmware/MarlinDocumentation.svg?branch=master)](//travis-ci.org/MarlinFirmware/MarlinDocumentation)
 
