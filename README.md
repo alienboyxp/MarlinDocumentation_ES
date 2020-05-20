@@ -2,7 +2,7 @@
 
 [![Build Status](//travis-ci.org/MarlinFirmware/MarlinDocumentation.svg?branch=master)](//travis-ci.org/MarlinFirmware/MarlinDocumentation)
 
-The aim of this project is to provide clear and concise documentation for [Marlin 3D printer firmware](//github.com/MarlinFirmware/Marlin). This documentation is made open and available on Github so anyone is welcome to contribute by either completing, correcting or creating new articles. See the section below, "[What We Need Most](#what-we-need-most)," for a current list of... what we need most.
+El objetivo de este proyecto es proveer de una documentación clara y concisa para [Marlin 3D printer firmware](//github.com/MarlinFirmware/Marlin). This documentation is made open and available on Github so anyone is welcome to contribute by either completing, correcting or creating new articles. See the section below, "[What We Need Most](#what-we-need-most)," for a current list of... what we need most.
 
 ![Marlin logo](assets/images/logo/marlin/small.png)
 
@@ -119,5 +119,5 @@ Marlin is published under the [GPL license](/LICENSE) because we believe in open
 
 While we can't prevent the use of this code in products (3D printers, CNC, etc.) that are closed source or crippled by a patent, we would prefer that you choose another firmware or, better yet, make your own.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNTc1NjAxOF19
+eyJoaXN0b3J5IjpbLTEwODgwMTc1Ml19
 -->
