@@ -117,5 +117,5 @@ Marlin is published under the [GPL license](/LICENSE) because we believe in open
 
 While we can't prevent the use of this code in products (3D printers, CNC, etc.) that are closed source or crippled by a patent, we would prefer that you choose another firmware or, better yet, make your own.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODgwMTc1Ml19
+eyJoaXN0b3J5IjpbMTU1OTc5Njg4OSwtMTA4ODAxNzUyXX0=
 -->
