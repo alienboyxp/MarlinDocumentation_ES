@@ -1,7 +1,5 @@
 # Proyecto Documentación Marlin
 
-[![Build Status](//travis-ci.org/MarlinFirmware/MarlinDocumentation.svg?branch=master)](//travis-ci.org/MarlinFirmware/MarlinDocumentation)
-
 El objetivo de este proyecto es proveer de una documentación clara y concisa para [Marlin 3D printer firmware](//github.com/MarlinFirmware/Marlin). This documentation is made open and available on Github so anyone is welcome to contribute by either completing, correcting or creating new articles. See the section below, "[What We Need Most](#what-we-need-most)," for a current list of... what we need most.
 
 ![Marlin logo](assets/images/logo/marlin/small.png)
